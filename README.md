@@ -9,7 +9,7 @@ to raise capital by giving long-term incentive-sharing mechanisms on the
 
 
 
-• Crowdfunding is a decentralized application based on the Ethereum blockchain
+Crowdfunding is a decentralized application based on the Ethereum blockchain
 platform that allows users to invest money in the campaigns that interest them.
 By using blockchain as a Back end, we can make sure that the investors engage
 in low-risk support of new ventures and venture creators can gain more
@@ -18,7 +18,7 @@ minimal time.
 
 
 
-• Blockchain world At present, there are a lot of projects created by individuals or
+Blockchain world At present, there are a lot of projects created by individuals or
 small-distributed teams that want to raise funds by issuing tokens to investors.
 The crowdfunding platform simplifies the idea of raising capital with help from
 the global public that might be interested in the campaign for an incentive that
